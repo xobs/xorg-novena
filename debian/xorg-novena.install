@@ -1,0 +1,2 @@
+#!/bin/sh
+echo 60-novena.conf /usr/share/X11/xorg.conf.d/

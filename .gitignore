@@ -1,0 +1,9 @@
+/debian/files
+/debian/tmp
+/debian/xorg-novena.debhelper.log
+/debian/xorg-novena.substvars
+/debian/xorg-novena.*.debhelper
+/debian/xorg-novena/
+*.swp
+*.swo
+*~
