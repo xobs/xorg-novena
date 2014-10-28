@@ -10,6 +10,7 @@ include /usr/share/dpkg/default.mk
 override_dh_prep:
 	mkdir -p debian/tmp
 	cp 60-novena.conf debian/tmp
+	cp 98-galcore.rules debian/tmp
 
 # main packaging script based on dh7 syntax
 %:

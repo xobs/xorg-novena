@@ -1,3 +1,9 @@
+xorg-novena (1.1-r1) unstable; urgency=medium
+
+  * Add accelerated "armada" driver
+
+ -- Sean Cross <xobs@kosagi.com>  Tue, 28 Oct 2014 12:45:00 +0700
+
 xorg-novena (1.0-r1) unstable; urgency=medium
 
   * Initial creation
