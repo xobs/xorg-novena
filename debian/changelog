@@ -1,3 +1,9 @@
+xorg-novena (1.7-r1) unstable; urgency=medium
+
+  * Add xserver-xorg-video-armada to dependency list
+
+ -- Sean Cross <xobs@kosagi.com>  Thu, 14 Jan 2016 21:33:14 +0800
+
 xorg-novena (1.6-r1) unstable; urgency=medium
 
   * Enable etnadrm/etnaviv support
